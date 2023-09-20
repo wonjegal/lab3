@@ -3,6 +3,9 @@
 // here we go!!//
 // just thought experiment //
 // one more thought experiment //
+
+
+// write anything ~~~//
 #include <iostream>
 #include <string.h>
 #include "math_func.h"
