@@ -1,4 +1,5 @@
 ///// Do Not Edit Here! /////
+// just thought experiment //
 #include <iostream>
 #include <string.h>
 #include "math_func.h"
