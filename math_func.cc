@@ -1,7 +1,7 @@
 ///// Do Not Edit Here! /////
 
-
 // here we go!!//
+// just thought experiment //
 #include <iostream>
 #include <string.h>
 #include "math_func.h"
